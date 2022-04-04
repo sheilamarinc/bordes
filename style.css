@@ -1,0 +1,14 @@
+div{
+    border-top-color: green;
+    border-top-width: 10px;
+    border-top-style: dotted;
+    border-bottom-color: red;
+    border-bottom-width: 10px;
+    border-bottom-style: dashed;
+    border-right-color: blue;
+    border-right-width: 10px;
+    border-right-style: solid;
+    border-left-color: black;
+    border-left-width: 10px;
+    border-left-style: double;
+}
